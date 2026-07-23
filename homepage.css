@@ -1,21 +1,13 @@
 @font-face {
     font-family: 'avenir';
-    src: url('AvenirNext-Medium.woff2') format('woff2'),
-        url('AvenirNext-Medium.woff') format('woff');
+    src: url('avenirnext-medium.woff2') format('woff2'),
+        url('avenirnext-medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 
-@font-face {
-    font-family: 'avenir2';
-    src: url('AvenirNext-UltraLight.woff2') format('woff2'),
-        url('AvenirNext-UltraLight.woff') format('woff');
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-
+/* 
 @font-face {
     font-family: 'webster';
     src: url('WebsterDeluxe-Regular.woff2') format('woff2'),
@@ -23,7 +15,7 @@
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-}
+} */
 
 
 
